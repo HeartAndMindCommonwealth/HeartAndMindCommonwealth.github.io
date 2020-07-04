@@ -1,6 +1,6 @@
 # Welcome to our Website
 
-This is the website for Heart and Mind Commonwealth.
+This is the [website](https://heartandmindcommonwealth.github.io) for Heart and Mind Commonwealth.
 
 ## Contact Support
 
